@@ -1,0 +1,130 @@
+./tp2 prueba1.mem
+
+se escribio en la direccion: 0 el dato 255 
+se escribio en la direccion: 2048 el dato 48 
+se escribio en la direccion: 4096 el dato 96 
+se escribio en la direccion: 8192 el dato 192 
+se escribio en la direccion: 16384 el dato 84 
+se escribio en la direccion: 32768 el dato 68 
+se escribio en la direccion: 12288 el dato 88 
+se escribio en la direccion: 20480 el dato 80 
+se leyo la direccion: 0 
+se leyo la direccion: 2048 
+se leyo la direccion: 4096 
+se leyo la direccion: 8192 
+se leyo la direccion: 16384 
+se leyo la direccion: 32768 
+se leyo la direccion: 12288 
+se leyo la direccion: 20480 
+se escribio en la direccion: 10240 el dato 240 
+se leyo la direccion: 0 
+El Miss rate fue del: 0.944444 
+se leyo la direccion: 0 
+se leyo la direccion: 31 
+se escribio en la direccion: 64 el dato 10 
+se leyo la direccion: 64 
+se escribio en la direccion: 64 el dato 20 
+se leyo la direccion: 64 
+El Miss rate fue del: 0.500000 
+se escribio en la direccion: 0 el dato 255 
+se escribio en la direccion: 2048 el dato 48 
+se escribio en la direccion: 4096 el dato 96 
+se escribio en la direccion: 8192 el dato 192 
+se escribio en la direccion: 16384 el dato 84 
+se escribio en la direccion: 32768 el dato 68 
+se escribio en la direccion: 12288 el dato 88 
+se escribio en la direccion: 20480 el dato 80 
+se leyo la direccion: 0 
+se leyo la direccion: 2048 
+se leyo la direccion: 4096 
+se leyo la direccion: 8192 
+se leyo la direccion: 16384 
+se leyo la direccion: 32768 
+se leyo la direccion: 12288 
+se leyo la direccion: 20480 
+se escribio en la direccion: 10240 el dato 240 
+se leyo la direccion: 0 
+El Miss rate fue del: 0.944444 
+
+./tp2 prueba2.mem
+
+se leyo la direccion: 0 
+se leyo la direccion: 31 
+se escribio en la direccion: 64 el dato 10 
+se leyo la direccion: 64 
+se escribio en la direccion: 64 el dato 20 
+se leyo la direccion: 64 
+El Miss rate fue del: 0.500000 
+
+./tp2 prueba3.mem
+
+se escribio en la direccion: 0 el dato 255 
+se escribio en la direccion: 1 el dato 2 
+se escribio en la direccion: 2 el dato 3 
+se escribio en la direccion: 3 el dato 4 
+se escribio en la direccion: 4 el dato 5 
+se leyo la direccion: 0 
+se leyo la direccion: 1 
+se leyo la direccion: 2 
+se leyo la direccion: 3 
+se leyo la direccion: 4 
+se leyo la direccion: 4096 
+se leyo la direccion: 8192 
+se leyo la direccion: 0 
+se leyo la direccion: 1 
+se leyo la direccion: 2 
+se leyo la direccion: 3 
+se leyo la direccion: 4 
+El Miss rate fue del: 0.470588 
+
+./tp2 prueba3b.mem
+
+se escribio en la direccion: 128 el dato 1 
+se escribio en la direccion: 129 el dato 2 
+se escribio en la direccion: 130 el dato 3 
+se escribio en la direccion: 131 el dato 4 
+se leyo la direccion: 2176 
+se leyo la direccion: 4224 
+se leyo la direccion: 6272 
+se leyo la direccion: 8320 
+se leyo la direccion: 10368 
+se leyo la direccion: 12416 
+se leyo la direccion: 14464 
+se leyo la direccion: 16512 
+se leyo la direccion: 128 
+se leyo la direccion: 129 
+se leyo la direccion: 130 
+se leyo la direccion: 131 
+El Miss rate fue del: 0.812500 
+
+./tp2 prueba4.mem
+
+se escribio en la direccion: 128 el dato 1 
+se escribio en la direccion: 129 el dato 2 
+se escribio en la direccion: 130 el dato 3 
+se escribio en la direccion: 131 el dato 4 
+se leyo la direccion: 2176 
+se leyo la direccion: 4224 
+se leyo la direccion: 6272 
+se leyo la direccion: 8320 
+se leyo la direccion: 10368 
+se leyo la direccion: 12416 
+se leyo la direccion: 14464 
+se leyo la direccion: 16512 
+se leyo la direccion: 128 
+se leyo la direccion: 129 
+se leyo la direccion: 130 
+se leyo la direccion: 131 
+El Miss rate fue del: 0.812500
+
+./tp2 prueba5.mem
+
+se leyo la direccion: 131072 
+se leyo la direccion: 4096 
+se escribio en la direccion: 16384 el dato 256 
+se leyo la direccion: 8192 
+se leyo la direccion: 4096 
+se leyo la direccion: 0 
+se leyo la direccion: 4096 
+El Miss rate fue del: 0.714286 
+
